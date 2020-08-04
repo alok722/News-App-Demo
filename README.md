@@ -7,6 +7,9 @@
   <a href="https://twitter.com/AlokR1" target="_blank">
     <img alt="Twitter: AlokR1" src="https://img.shields.io/twitter/follow/AlokR1.svg?style=social" />
   </a>
+  <a href="https://github.com/alok722" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alok722?style=social">                                       
+  </a>
 </p>
 
 > An Android news app front-end ready to implement news API supporting all major Android versions.
